@@ -14,7 +14,7 @@ module.exports = {
       },
       letterSpacing: {
         widest: '.3em',
-      },
+      }
     },
   },
   plugins: [],
