@@ -917,7 +917,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .ficon:hover {
   filter: invert(80%) sepia(37%) saturate(7048%) hue-rotate(132deg)
-    brightness(105%) contrast(104%);
+      brightness(105%) contrast(104%);
 }
 
 .hover\:scale-95:hover {
